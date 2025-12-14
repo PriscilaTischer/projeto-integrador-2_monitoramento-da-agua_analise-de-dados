@@ -1,4 +1,4 @@
-# 💧 Projeto Integrador 2024/2 – Monitoramento da Qualidade da Água 📊
+# 💧 Projeto Integrador 2025/2 – Monitoramento da Qualidade da Água 📊
 
 ## 📌 Status
 ✅ Concluído
@@ -19,12 +19,14 @@ Foi desenvolvido um **Dashboard Interativo** que coleta, processa e visualiza in
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-- Python
-- Streamlit
-- Plotly
-- MySQL
-- SQL
-- Git e GitHub
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
@@ -60,7 +62,7 @@ Foi desenvolvido um **Dashboard Interativo** que coleta, processa e visualiza in
 ### Instalação das Dependências
 Instalar as bibliotecas necessárias para execução do projeto:
 
-```bash
+### bash
 pip install streamlit pandas plotly pymysql
 ### Configuração do Banco de Dados
 - Criar um banco de dados no MySQL
@@ -69,10 +71,10 @@ pip install streamlit pandas plotly pymysql
 ### Execução do Dashboard
 Para iniciar o dashboard interativo, execute o comando:
 
-```bash
-python -m streamlit run dashboard.py
-👥 Equipe e Colaboração
 
+python -m streamlit run dashboard.py
+
+👥 Equipe e Colaboração
 Este projeto foi desenvolvido em grupo por:
 
 Priscila Tischer de Zottis (GitHub | LinkedIn)
