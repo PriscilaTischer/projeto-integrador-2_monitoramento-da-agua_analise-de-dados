@@ -1,13 +1,10 @@
 # 💧 Projeto Integrador 2025/2 – Monitoramento da Qualidade da Água 📊
 
-## 📌 Status
-✅ Concluído
+## 📌 Status✅ Concluído
 
-## 🎓 Instituição
-Universidade Federal de Itajubá (UNIFEI)
+## 🎓 Instituição Universidade Federal de Itajubá (UNIFEI)
 
-## 📚 Curso
-Bacharelado em Ciência e Tecnologia
+## 📚 Curso Bacharelado em Ciência e Tecnologia
 
 ---
 
