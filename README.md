@@ -4,7 +4,7 @@
 
 ## 🎓 Instituição: Universidade Federal de Itajubá (UNIFEI)
 
-## 📚 Curso: Bacharelado em Ciência e Tecnologia
+📚 Curso: Bacharelado em Ciência e Tecnologia
 
 ---
 
