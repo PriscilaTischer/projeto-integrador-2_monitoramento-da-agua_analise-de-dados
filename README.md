@@ -77,7 +77,7 @@ python -m streamlit run dashboard.py
 👥 Equipe e Colaboração
 Este projeto foi desenvolvido em grupo por:
 
-Priscila Tischer de Zottis (GitHub | LinkedIn)
+Priscila Tischer de Zottis  ([GitHub](https://github.com/PriscilaTischer) | [LinkedIn](https://www.linkedin.com/in/priscila-tischer/))
 Simone
 Fabrício
 Pedro
