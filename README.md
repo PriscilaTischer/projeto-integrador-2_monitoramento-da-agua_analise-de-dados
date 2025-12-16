@@ -1,16 +1,15 @@
-## 💧 Projeto Integrador 2025/2 – Monitoramento da Qualidade da Água
-📊## 📌 Status✅ Concluído
+# 💧 Projeto Integrador 2025/2 – Monitoramento da Qualidade da Água
 
-## 📌 Status✅ Concluído
-## 🎓 Instituição: Universidade Federal de Itajubá (UNIFEI)
-## 📚 Curso: Bacharelado em Ciência e Tecnologia
+📌 **Status:** ✅ Em Andamento  
+🎓 **Instituição:** Universidade Federal de Itajubá (UNIFEI)  
+📚 **Curso:** Bacharelado em Ciência e Tecnologia
 
 ---
 
 ## 📝 Resumo do Projeto
 Este repositório documenta o **Projeto Integrador 2**, focado na análise e ciência de dados aplicados a um problema real: o monitoramento da qualidade da água.
 
-Foi desenvolvido um **Dashboard Interativo** que coleta, processa e visualiza indicadores de qualidade da água, permitindo uma análise rápida e intuitiva para apoio à tomada de decisão. O projeto integra um banco de dados SQL com uma interface moderna desenvolvida em Python.
+Foi desenvolvido uma estação de **analize de água com arduino** e sensores e um **Dashboard Interativo** que coleta, processa e visualiza indicadores de qualidade da água, permitindo uma análise rápida e intuitiva para apoio à tomada de decisão. O projeto integra um banco de dados SQL com uma interface moderna desenvolvida em Python.
 
 ---
 
